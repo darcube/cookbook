@@ -1,0 +1,22 @@
+.main__title {
+    font-family: 'Allura';
+    font-size: 3.5rem;
+    padding: 50px 30px 0 40px;
+}
+
+.carousel {
+    padding: 20px;
+    padding-top: 0;
+
+    .carousel-item {
+        width: 100%;
+        padding-bottom: 15px;
+    }
+
+    .carousel-control-prev {
+        width: 3%;
+    }
+    .carousel-control-next {
+        width: 3%;
+    }
+}
